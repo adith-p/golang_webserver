@@ -4,7 +4,7 @@ This is a simple web server written in Go.
 
 ## Features
 
-- Serves static files from the `public/` directory
+- Serves static files from the `static/` directory
 - Simple routing for GET requests
 - Graceful shutdown on CTRL+C
 
